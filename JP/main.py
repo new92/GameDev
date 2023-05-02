@@ -2,10 +2,9 @@
 Author: new92
 Github: @new92
 
-THIS IS THE MAIN SCRIPT
 A (silly) game made with Python
 """
-from JP import Jack
+from main import Jack
 from time import sleep
 
 def main():
