@@ -4,7 +4,7 @@ Github: @new92
 
 A (silly) game made with Python
 """
-from main import Jack
+from game import Jack
 from time import sleep
 
 def main():
