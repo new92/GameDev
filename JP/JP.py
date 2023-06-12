@@ -15,7 +15,7 @@ def main():
         print("[+] Exiting Casino...")
         exit(0)
     else:
-        print(f"[::] Claim your earnings: {res}$")
+        print(f"[::] Claim your earnings: ${res}")
         sleep(2)
         exit(0)
 
